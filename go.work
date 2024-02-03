@@ -1,0 +1,7 @@
+go 1.21.6
+
+use (
+	./Question1
+	./Question2
+	./Question3
+)
